@@ -154,7 +154,7 @@ http://clojure-doc.org/articles/ecosystem/java_jdbc/home.html"}
    "h2:mem"         "org.h2.Driver"
    "hsqldb"         "org.hsqldb.jdbcDriver"
    "jtds:sqlserver" "net.sourceforge.jtds.jdbc.Driver"
-   "mysql"          "com.mysql.jdbc.Driver"
+   "mysql"          "com.mysql.cj.jdbc.Driver"
    "oracle:oci"     "oracle.jdbc.OracleDriver"
    "oracle:thin"    "oracle.jdbc.OracleDriver"
    "postgresql"     "org.postgresql.Driver"
